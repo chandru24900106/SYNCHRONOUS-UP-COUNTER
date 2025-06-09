@@ -1,7 +1,7 @@
 ### name : chandru v
 ### reg no : 212224230043
-### Ex no : 11
-### SYNCHRONOUS-UP-COUNTER
+### Ex no : 05
+### SYNCHRONOUS UP COUNTER
 
 **AIM:**
 
